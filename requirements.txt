@@ -1,8 +1,8 @@
-azure_storage==0.37.0
+azure.storage.blob
 google_api_python_client==2.108.0
 google_auth_oauthlib==1.0.0
 matplotlib==3.8.0
-natsort==8.4.0
+# natsort==8.4.0
 numpy==1.26.4
 opencv_python==4.8.1.78
 Pillow==10.0.1
