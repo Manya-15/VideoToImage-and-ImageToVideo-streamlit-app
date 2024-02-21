@@ -7,7 +7,8 @@ import os
 import numpy as np
 
 # Azure Blob Storage Connection
-connect_str = "DefaultEndpointsProtocol=https;AccountName=videoimageextract;AccountKey=HCOVTQPTNDJU0rgJqEPcO39iFP8K0ORAieqjGWaR1R0jailpn5jSWkSiuYXras0Suo8MtzpK7egl+AStuTf8Nw==;EndpointSuffix=core.windows.net"
+# api_key = st.secrets["my_api_key"]
+connect_str = st.secrets["connect_str"]
 blob_service_client = BlobServiceClient.from_connection_string(connect_str)
 
 # Function to create a container in Azure Blob Storage
