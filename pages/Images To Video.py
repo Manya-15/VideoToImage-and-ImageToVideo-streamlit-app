@@ -8,7 +8,7 @@ import numpy as np
 
 # Azure Blob Storage Connection
 # api_key = st.secrets["my_api_key"]
-connect_str = st.secrets["connect_str"]
+connect_str = st.secrets["connection_str"]
 blob_service_client = BlobServiceClient.from_connection_string(connect_str)
 
 # Function to create a container in Azure Blob Storage
