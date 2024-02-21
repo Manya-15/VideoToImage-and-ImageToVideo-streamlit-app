@@ -20,8 +20,8 @@ st.markdown(
     Step 3: Download the images or save the images in the drive\n
     
     ### Image To Video Converter (:frame_with_picture: :arrow_right: :film_projector:)
-    Step 1: Upload the images
-    Step 2: Select the frame rate for the video
-    Step 3: Download the video or save it in the drive
+    Step 1: Upload the images\n
+    Step 2: Select the frame rate for the video\n
+    Step 3: Download the video or save it in the drive\n
 """
 )
