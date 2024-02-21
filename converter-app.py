@@ -15,9 +15,9 @@ st.markdown(
     **👈 Select a process from the sidebar** to 
     start working!
     ### Video To Image Converter (:film_projector: :arrow_right: :frame_with_picture:)
-    Step 1: Upload the video
-    Step 2: Select the frame skip rate
-    Step 3: Download the images or save the images in the drive
+    Step 1: Upload the video\n
+    Step 2: Select the frame skip rate\n
+    Step 3: Download the images or save the images in the drive\n
     
     ### Image To Video Converter (:frame_with_picture: :arrow_right: :film_projector:)
     Step 1: Upload the images
