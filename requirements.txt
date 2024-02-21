@@ -7,6 +7,5 @@ numpy==1.26.4
 opencv_python==4.8.1.78
 protobuf==4.25.3
 PyDrive==1.3.1
-streamlit==1.29.0
+streamlit
 ultralytics==8.0.195
-streamlit==1.27.2
