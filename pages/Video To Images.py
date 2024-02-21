@@ -11,7 +11,7 @@ from zipfile import ZipFile
 
 
 # Azure Blob Storage Connection
-connect_str = st.secrets["connect_str"]
+connect_str = st.secrets["connection_str"]
 blob_service_client = BlobServiceClient.from_connection_string(connect_str)
 
 # Function to create a folder in Google Drive
